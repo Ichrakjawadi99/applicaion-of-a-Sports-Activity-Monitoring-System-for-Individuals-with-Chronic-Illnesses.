@@ -1,0 +1,1 @@
+# applicaion-of-a-Sports-Activity-Monitoring-System-for-Individuals-with-Chronic-Illnesses.
