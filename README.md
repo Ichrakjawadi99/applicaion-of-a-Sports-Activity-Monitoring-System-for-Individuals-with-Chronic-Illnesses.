@@ -40,7 +40,7 @@ This project focuses on developing a sports activity monitoring system tailored 
 
 ## User Interface Examples
 
-### 1. **Home Screen**
+### 1. **Home Page**
    - **Real-Time Activity Feed**: Shows current physical activity and biometric data.
    - **Health Metrics**: Displays heart rate, oxygen levels, and activity statistics.
 
